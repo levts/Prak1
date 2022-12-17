@@ -4,4 +4,4 @@
 *.iml
 .idea
 target/
-out/
+**/out/*.java
